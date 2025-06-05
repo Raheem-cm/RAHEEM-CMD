@@ -15,7 +15,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{Raheem-cm}/count.svg" alt="Raheem-cm :: Visitor's Count" /></p>
 
 <p align='center'>
- <a href="https://github.com/Raheem-cm/RQHEEM-CMD/fork"><img title="RAHEEM-CMD" src="https://img.shields.io/badge/FORK-RAHEEM CMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
+ <a href="https://github.com/Raheem-cm/RAHEEM-CMD/fork"><img title="RAHEEM-CMD" src="https://img.shields.io/badge/FORK-RAHEEM CMD V1-h?color=008000&style=for-the-badge&logo=github"></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://railway.app?referralCode=AqkNn4">
-    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=red&color=purple" width="260" height="50"/>
+    <img title="DEPLOY ON RAILWAY" src="https://img.shields.io/badge/👻_DEPLOY_ON_RAILWAY-000000?style=for-the-badge&logo=railway&logoColor=gold&color=purple" width="260" height="50"/>
   </a>
 </p>
 
